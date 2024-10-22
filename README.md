@@ -6,9 +6,6 @@
 #### Technical Skills: flutter, SQL, dart, git, github
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 - Master 2,Information Systems and Web Technologies | Universit´e Constantine 2 (2021 - 2023)
 - Bachelor's degree in Information Systems | Universit´e Constantine 2 (2018 - 2021)
 
@@ -42,8 +39,8 @@ _Summer 2021_
 
 Built a comprehensive mobile app for online course selling using **Flutter** and **BLoC** state management. The app features user authentication, in-app purchases, and dynamic course management.
 
-### **ISO Distribution Website**
-Developed and maintained a WordPress-based website for **ISO Distribution**, improving online visibility and client interaction. Managed VPS hosting for enhanced performance and security.
+### **RescueSeha App**
+The project involves the design and development of a cross-platform mobile application called RescueSeha, which is intended to assist in the management of emergency situations. This application aims to provide users with a comprehensive tool that can quickly connect them with emergency services and nearby volunteer rescuers, while also offering guidance on how to perform critical first aid actions.
 
 ## 🛠 Skills
 
